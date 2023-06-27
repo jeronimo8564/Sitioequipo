@@ -250,7 +250,7 @@ div li{
       ul li a{
          text-decoration: none;
          font-size: 1rem;
-         color: black;
+         color: whitesmoke;
          background-color:#475657;
        }
        ul li a:hover{
